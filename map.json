@@ -151,7 +151,53 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":24.5,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Josef",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":49.5,
+                 "x":582,
+                 "y":490.5
+                }, 
+                {
+                 "height":22,
+                 "id":19,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Info",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":33.5,
+                 "x":389.5,
+                 "y":771
+                }, 
+                {
+                 "gid":230,
+                 "height":32,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":542.5,
+                 "y":541.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -177,7 +223,7 @@
          "y":0
         }],
  "nextlayerid":23,
- "nextobjectid":7,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
