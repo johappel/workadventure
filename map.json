@@ -151,27 +151,33 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":24,
+         "name":"objekte",
          "objects":[
                 {
-                 "height":24.5,
-                 "id":15,
+                 "gid":230,
+                 "height":32,
+                 "id":29,
                  "name":"",
                  "rotation":0,
-                 "text":
-                    {
-                     "halign":"center",
-                     "text":"Josef",
-                     "wrap":true
-                    },
                  "type":"",
                  "visible":true,
-                 "width":49.5,
-                 "x":582,
-                 "y":490.5
+                 "width":32,
+                 "x":576,
+                 "y":695.5
                 }, 
                 {
                  "height":22,
-                 "id":19,
+                 "id":30,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -183,20 +189,25 @@
                  "type":"",
                  "visible":true,
                  "width":33.5,
-                 "x":389.5,
-                 "y":771
+                 "x":336.25,
+                 "y":912
                 }, 
                 {
-                 "gid":230,
-                 "height":32,
-                 "id":20,
+                 "height":24.5,
+                 "id":31,
                  "name":"",
                  "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Josef",
+                     "wrap":true
+                    },
                  "type":"",
                  "visible":true,
-                 "width":32,
-                 "x":542.5,
-                 "y":541.5
+                 "width":49.5,
+                 "x":582.75,
+                 "y":489.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -222,8 +233,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":23,
- "nextobjectid":21,
+ "nextlayerid":25,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
